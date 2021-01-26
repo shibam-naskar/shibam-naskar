@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibam-naskar&label=Profile%20views&color=0e75b6&style=flat" alt="shibam-naskar" /> </p>
 
-<img src="https://hmsayem.tech/Media/languages.gif" width="800" height="600" />
+<img src="https://hmsayem.tech/Media/languages.gif" width="1000" height="600" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibam-naskar" alt="shibam-naskar" /></a> </p>
 
