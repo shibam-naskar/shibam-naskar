@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibam-naskar&label=Profile%20views&color=0e75b6&style=flat" alt="shibam-naskar" /> </p>
 
-<img src="https://user-images.githubusercontent.com/39475600/122757381-2fee6c00-d2b5-11eb-8437-42a46c68210c.gif" width="1000" height="700" />
+<img src="https://user-images.githubusercontent.com/39475600/122758544-8c9e5680-d2b6-11eb-85d9-62db6080bca1.gif" width="1000" height="550" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibam-naskar" alt="shibam-naskar" /></a> </p>
 
