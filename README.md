@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibam-naskar&label=Profile%20views&color=0e75b6&style=flat" alt="shibam-naskar" /> </p>
 
-<img src="https://cdn.dribbble.com/users/126066/screenshots/6605444/__-organic-artificial-intelligence-design-by-gleb-kuznetsov_-for-milkinside7_1-__.gif" width="1000" height="600" />
+<img src="https://user-images.githubusercontent.com/39475600/122757381-2fee6c00-d2b5-11eb-8437-42a46c68210c.gif" width="1000" height="700" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibam-naskar" alt="shibam-naskar" /></a> </p>
 
